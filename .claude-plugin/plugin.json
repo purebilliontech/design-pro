@@ -1,0 +1,9 @@
+{
+  "name": "design-pro",
+  "version": "0.2.0",
+  "description": "Design Pro — an orchestrated skill over 328 bundled design & front-end playbooks. For UI builds it drives an anti-generic engine as a mandatory spine and enforces a final quality gate; it also routes UI craft, web build, process, motion/3D and games work. Seven MIT-licensed collections.",
+  "author": {
+    "name": "Pure Billion Technologies"
+  },
+  "license": "MIT"
+}

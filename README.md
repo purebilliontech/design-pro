@@ -9,7 +9,7 @@ hundreds of descriptions into every conversation — this plugin registers a sin
 ## Install
 
 ```
-/plugin marketplace add PureBillionTech/design-pro
+/plugin marketplace add purebilliontech/design-pro
 /plugin install design-pro@design-pro
 ```
 

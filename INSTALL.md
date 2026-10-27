@@ -5,7 +5,7 @@ Three routes, easiest first.
 ## 1. From the public marketplace (recommended)
 
 ```
-/plugin marketplace add PureBillionTech/design-pro
+/plugin marketplace add purebilliontech/design-pro
 /plugin install design-pro@design-pro
 ```
 
